@@ -2,7 +2,7 @@
   "name": "muhammad-abdul-nafay-portfolio",
   "version": 2,
   "public": true,
-  "buildCommand": "pnpm build",
+  "buildCommand": "npm run build",
   "outputDirectory": ".next",
   "env": {
     "NODE_ENV": "production"
