@@ -19,6 +19,7 @@ type ContactFormData = z.infer<typeof contactSchema>;
 
 export function Contact() {
   const [submitted, setSubmitted] = useState(false);
+  const [submitError, setSubmitError] = useState<string | null>(null);
   const {
     register,
     handleSubmit,
@@ -29,15 +30,22 @@ export function Contact() {
   });
 
   const onSubmit = async (data: ContactFormData) => {
+    setSubmitError(null);
     try {
-      // Simulate form submission
-      await new Promise((resolve) => setTimeout(resolve, 1000));
-      console.log("Form submitted:", data);
+      const res = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(data),
+      });
+      if (!res.ok) {
+        const payload = await res.json().catch(() => ({}));
+        throw new Error(payload?.error ?? "Failed to send message.");
+      }
       setSubmitted(true);
       reset();
       setTimeout(() => setSubmitted(false), 5000);
     } catch (error) {
-      console.error("Error submitting form:", error);
+      setSubmitError(error instanceof Error ? error.message : "Failed to send message.");
     }
   };
 
@@ -174,6 +182,9 @@ export function Contact() {
               >
                 {isSubmitting ? "Sending..." : submitted ? "Message Sent! ✓" : "Send Message"}
               </motion.button>
+              {submitError && (
+                <p className="text-red-500 text-sm mt-2" role="alert">{submitError}</p>
+              )}
             </form>
           </motion.div>
 
