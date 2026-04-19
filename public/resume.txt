@@ -1,0 +1,118 @@
+MUHAMMAD ABDUL NAFAY
+Full Stack Web Developer (MERN + Laravel)
+
+EMAIL: nafay.dev@gmail.com
+PHONE: +92 300 XXXX XXX
+LOCATION: Pakistan
+GITHUB: https://github.com
+LINKEDIN: https://linkedin.com
+
+═══════════════════════════════════════════════════════════════════
+
+PROFESSIONAL SUMMARY
+
+Passionate Full Stack Web Developer with expertise in MERN stack and Laravel. 
+Proficient in building scalable, user-friendly web applications with modern 
+technologies. Strong foundation in both frontend and backend development with 
+proven ability to deliver high-quality solutions.
+
+═══════════════════════════════════════════════════════════════════
+
+TECHNICAL SKILLS
+
+Frontend: HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React, Next.js, 
+TypeScript, Framer Motion
+
+Backend: Node.js, Express.js, PHP, Laravel, REST APIs, Authentication, 
+Server-side Rendering
+
+Databases: MySQL, MongoDB, PostgreSQL, Supabase, Firebase
+
+Tools & Platforms: Git, GitHub, VS Code, Postman, Docker, AWS, Vercel, Linux
+
+Other: CRUD Operations, MVC Architecture, ERP Systems, Responsive Design, 
+SEO, Web Performance, SOLID Principles
+
+═══════════════════════════════════════════════════════════════════
+
+WORK EXPERIENCE
+
+Laravel Developer
+DevFor | Jan 2025 - Apr 2025 | Remote
+
+• Developed and maintained Laravel-based web applications
+• Implemented RESTful APIs and database migrations
+• Created user authentication systems with secure session management
+• Collaborated with frontend developers for seamless integration
+
+Laravel Developer Intern
+Solutions Wave | Sep 2024 - Jan 2025 | Remote
+
+• Learned and applied Laravel framework fundamentals
+• Developed backend services with efficient database schemas
+• Implemented CRUD operations and MVC patterns
+• Worked with Laravel routing, middleware, and database management
+
+Full Stack Web Developer Intern
+Btech Training Institute | Jul 2023 - Jul 2024 | Islamabad, Pakistan
+
+• Developed full-stack applications using MERN stack
+• Implemented responsive design and modern JavaScript practices
+• Built RESTful APIs and database management systems
+• Completed multiple capstone projects from concept to deployment
+
+═══════════════════════════════════════════════════════════════════
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University/Institute Name | 2021 - 2025 | Pakistan
+
+Relevant Coursework:
+• Data Structures & Algorithms
+• Database Management Systems
+• Web Development
+• Software Engineering
+• Cloud Computing
+
+═══════════════════════════════════════════════════════════════════
+
+PROJECTS
+
+E-Commerce Platform (MERN Stack)
+• Built full-stack e-commerce solution with product catalog and shopping cart
+• Integrated Stripe payment system for secure transactions
+• Implemented user authentication and order management
+• Created admin dashboard for inventory control
+
+Task Management App (React + Firebase)
+• Developed modern task management application with real-time updates
+• Implemented user collaboration and team management features
+• Created drag-and-drop interface with task prioritization
+• Added dark mode and mobile-responsive design
+
+Blog Platform (Next.js + Laravel)
+• Built full-featured blogging platform with CMS
+• Implemented rich text editor and markdown support
+• Created comment system and category management
+• Developed analytics dashboard
+
+═══════════════════════════════════════════════════════════════════
+
+CERTIFICATIONS & ACHIEVEMENTS
+
+• Full Stack Web Development Certification
+• MERN Stack Specialization
+• Laravel Development Training
+• GitHub Contribution Achievements
+
+═══════════════════════════════════════════════════════════════════
+
+LANGUAGES
+
+• English (Professional)
+• Urdu (Native)
+
+═══════════════════════════════════════════════════════════════════
+
+Generated: 2025
